@@ -168,6 +168,29 @@ Solving Indonesia's air quality crisis requires:
 3. **City-specific monitoring expansion** — Many Indonesian cities lack adequate sensor coverage
 4. **Public health planning** — Sensitive populations need year-round protection
 
+## 💼 Business Decisions This Analysis Supports
+
+### Public Sector
+- **Health budgets:** Allocate respiratory care resources year-round, not just during fire season — Indonesia's chronic pollution pattern means cumulative health impact is constant
+- **School policies:** Issue mask mandates or remote learning days during Jun-Oct peaks
+- **Hospital readiness:** Pre-stock respiratory medications before dry season starts
+- **Forest fire prevention:** Pre-deploy resources to Sumatra and Kalimantan in May
+- **Sensor infrastructure:** Most Indonesian cities have only 1-2 sensors — a national air quality monitoring expansion is overdue
+
+### Private Sector
+- **Air purifier market:** 270M+ Indonesians are exposed to chronic pollution year-round, not just seasonally — a sustained-demand market larger than typical seasonal estimates
+- **Real estate:** Buildings with air purification systems can command premium pricing; cleaner cities like Bogor may appreciate as awareness grows
+- **Insurance:** Pricing models can incorporate city-level air quality as a health risk factor
+- **HR & talent:** Air quality is a real factor in relocation decisions and family planning for skilled workers
+
+### Tourism
+- **Seasonal positioning:** Wet season (Nov-Mar) marketing should emphasize cleaner air as a value proposition
+- **Destination diversification:** Promote Bogor and other cleaner Indonesian cities as alternatives to traditional Jakarta-focused tourism
+
+### Cross-Border Cooperation
+- **ASEAN haze policy:** Indonesia's pollution affects Singapore and Malaysia — multilateral funding agreements are economically rational for all parties
+- **Climate aid allocation:** International climate funding focused on Indonesia would have outsized regional health impact
+
 ## 📝 License
 
 MIT License — free for educational and portfolio use.
