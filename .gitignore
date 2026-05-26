@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# API keys
+.env
+config_local.py
+
+# Personal notes / build guides (not for portfolio)
+TABLEAU_GUIDE.md
+NOTES.md
+
+# Data files (keep raw out of git, processed is small enough)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.parquet
+!data/raw/.gitkeep
